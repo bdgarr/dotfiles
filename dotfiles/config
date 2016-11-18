@@ -1,0 +1,3 @@
+host bd
+    HostName 10.0.2.15
+    User bdgarr
